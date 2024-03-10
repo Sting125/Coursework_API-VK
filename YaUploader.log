@@ -1,0 +1,19 @@
+[
+    {
+        "file_name": "1 2024_03_03.jpg",
+        "size": "z"
+    },
+    {
+        "file_name": "1 2024_03_03.jpg",
+        "size": "z"
+    },
+    {
+        "file_name": "1 2024_03_03.jpg",
+        "size": "z"
+    },
+    {
+        "file_name": "43.jpg",
+        "size": "z"
+    }
+]2024-03-10 09:11:17.493738: Начало вызова функции upload_photos с аргументами (<__main__.YaUploader object at 0x000002027A4137D0>, {1: [['2024_03_03', 'https://sun9-44.userapi.com/impf/kbnSqWxCsG9ENsIvcJNwD5ILlikhflC5k9AWdg/2AC5mdz9R8M.jpg?size=960x500&quality=96&sign=5a5e493610feeff52cfab7794642d27a&c_uniq_tag=TME3hJLy4p2vVqHPsgHef2QMSh4D1vrZGMpmu0YwWvw&type=album'], ['2024_03_03', 'https://sun9-1.userapi.com/impg/47gvXtfkYrEhHju1bIsVc5Q0TBxIR2PxE3KLBQ/mHu6DTX4y4w.jpg?size=607x1080&quality=95&sign=de07fda95124179e1f580737515bf702&c_uniq_tag=SktbzphNuxdEhkJM81bZCbCwELpvN3OZKpy3O6wJOK4&type=album'], ['2024_03_03', 'https://sun9-9.userapi.com/impf/w27_QTGsIexnA0fMExHJx3C6pw5xrnvaYUhaNg/awuRr86UTWc.jpg?size=960x540&quality=96&sign=34fd2f7dc51e4d753a4c9c127496f777&c_uniq_tag=-YUvxwaNNhjNoj16DTtm95YGxkcLg3eL-xm7Nj7Apk4&type=album']], 43: [['2014_05_11', 'https://sun9-49.userapi.com/impf/74xQtL9dU10dU5bKnDVQ4MhWBOFtiqTZ1w8mbA/I1VBrYjYIhg.jpg?size=960x540&quality=96&sign=c0aef038e75b147ecf2df9427b1962ab&c_uniq_tag=_t7LDlhkzQaU_nykkNHWIuW1vBbqde4klWTd4k4S4v0&type=album']]}) и {} 
+2024-03-10 09:11:38.978718: upload_photos вернула "None" 
